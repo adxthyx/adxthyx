@@ -7,7 +7,9 @@
 
 - 👯 I’m looking for **Internship**
 
-- 👨‍💻 All of my projects are available at [adxthyx-portfolio.vercel.app](https://adxthyx-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [adxthyx](adxthyx)
+
+- 👨‍💻 Visit my portfolio website [adxthyx-portfolio.vercel.app](https://adxthyx-portfolio.vercel.app)
 
 - 📫 How to reach me **adithyanarayana02@gmail.com**
 

@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adxthyx&" alt="adxthyx" /></p>
 
 
-![snake gif](https://github.com/adxthyx/adxthyx/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/adxthyx/adxthyx/blob/output/github-contribution-grid-snake-dark.svg)

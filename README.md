@@ -30,3 +30,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adxthyx&show_icons=true&locale=en&layout=compact" alt="adxthyx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adxthyx&" alt="adxthyx" /></p>
+
+
+![snake gif](https://github.com/adxthyx/adxthyx/blob/output/github-contribution-grid-snake.gif)

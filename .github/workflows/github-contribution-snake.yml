@@ -1,0 +1,40 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    # Run the workflow every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Generate Snake
+      uses: Platane/snk/snake@v2
+      id: snake
+      with:
+        github_user_name: adxthyx
+        # Use the following line to generate the contribution graph
+        # (Commented out by default to avoid conflicts with the regular snake)
+        # contribution_graph: true
+
+    - name: Commit & Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Generate contribution snake" -a
+        git push
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
+        keep_files: true
+        # The folder where the snake animation will be generated
+        deploy_folder: dist

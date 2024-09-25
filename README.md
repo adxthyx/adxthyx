@@ -31,7 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adxthyx&" alt="adxthyx" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adxthyx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Github Activity ](https://github-readme-activity-graph.vercel.app/graph?username=adxthyx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adxthyx)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![snake gif](https://github.com/adxthyx/adxthyx/blob/output/github-contribution-grid-snake-dark.svg)

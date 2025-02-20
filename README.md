@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **NextJS,NodeJS,Angular,React**
 
-- 👯 I’m looking for **Internship**
-
 - 👨‍💻 All of my projects are available at [adxthyx](https://github.com/adxthyx?tab=repositories)
 
 - 👨‍💻 Visit my portfolio website [adxthyx-portfolio.vercel.app](https://adxthyx-portfolio.vercel.app)

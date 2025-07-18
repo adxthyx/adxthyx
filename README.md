@@ -1,3 +1,4 @@
+###
 <h1 align="center">Hi, I'm Adithya Narayana Holla</h1>
 
 ###
@@ -5,6 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adxthyx&label=Profile%20views&color=0e75b6&style=flat" alt="adxthyx" />
 </p>
+
 ###
 
 

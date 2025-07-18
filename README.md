@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Adithya Narayana Holla</h1>
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=adxthyx&count_private=true&show_icons=true&v=2" />
+<img src="https://github-readme-stats.vercel.app/api?username=adxthyx&count_private=false&show_icons=true&v=2" />
 <img src="https://streak-stats.demolab.com?user=adxthyx&v=2" />
 
 <p align="center">

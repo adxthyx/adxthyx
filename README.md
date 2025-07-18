@@ -47,3 +47,8 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.demolab.com?user=adxthyx&theme=radical" />
 </p>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adxthyx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adxthyx&theme=dracula" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adxthyx&layout=compact&theme=dracula&langs_count=5" height="150" alt="Top Languages" />
+</div>

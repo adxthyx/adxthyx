@@ -47,4 +47,4 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.demolab.com?user=adxthyx&theme=radical" />
 </p>
-[![xxx GitHub stats](https://github-readme-stats.vercel.app/api?username=adxthyx)](https://github.com/adxthyx/github-readme-stats)
+
